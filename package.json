@@ -1,13 +1,13 @@
 {
   "name": "@wastesentry/styles",
-  "description": "Common styles for ezWaste projects",
+  "description": "Common styles for waste sentry projects",
   "private": false,
-  "version": "0.2.0",
+  "version": "0.2.1",
   "type": "module",
   "packageManager": "pnpm@10.24.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ezwaste-io/ezstyles"
+    "url": "https://github.com/wastesentry/styles"
   },
   "scripts": {
     "prepare": "husky"
